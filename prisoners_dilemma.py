@@ -381,4 +381,8 @@ def post_to_file(string, filename='tournament.txt', directory=''):
 ### Call main_play() if this file is executed
 if __name__ == '__main__':
     scores, moves, reports = main_play(modules[8:24])   
+<<<<<<< HEAD
     section0, section1, section2, section3 = reports
+=======
+    section0, section1, section2, section3 = reports
+>>>>>>> e51831deba36a2ba3fbb892cdf93ed721d8f4df7
